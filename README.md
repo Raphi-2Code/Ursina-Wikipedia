@@ -25,7 +25,7 @@ Keep in mind that installing from the latest GitHub version may introduce new fe
 
 **Structure**:<br>
 A regular project contains these features: 
-<syntaxhighlight lang="python" line>
+<code>
 from ursina import *
 
 app = Ursina() #‎ Generates the Ursina window 
@@ -39,7 +39,7 @@ def input(key): #‎ Called when a key is pressed
    ...
 
 app.run() #‎ Creates the window 
-</syntaxhighlight>
+</code>
 <br>
 **Entities**:<br>Ursina is an entity-based engine. An entity is a Python class that acts as an object in Ursina, similar to the GameObject in Unity.<br>It can have a position, a rotation, a scale, a model, a texture, a color, a shader, a parent, ...<br>Scripts apply a behavior to the entity.
 
@@ -51,7 +51,8 @@ Each entity can have its own update function, that is executed each frame and an
 
 **Other useful tools and features**:<br>Networking:<br>Ursina has a built-in module networking module: from ursina.networking import *<br>Physics Engine:<br>Ursina has a built-in physics engine (from ursina.physics import *), yet not finished.<br>
 
-**Level Editor (Beta Preview)**:<br>Ursina's level editor is currently in beta preview. Import it via:<syntaxhighlight lang="python" line>
+**Level Editor (Beta Preview)**:<br>Ursina's level editor is currently in beta preview. Import it via:
+<code>
 
 from ursina import *
 
@@ -62,7 +63,7 @@ app = Ursina()
 editor = LevelEditor()
 
 app.run()
-</syntaxhighlight>
+</code>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Ursina_level_editor_screenshot.png) 
 
