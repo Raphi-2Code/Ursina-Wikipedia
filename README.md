@@ -27,11 +27,17 @@ Keep in mind that installing from the latest GitHub version may introduce new fe
 A regular project contains these features: 
 <syntaxhighlight lang="python" line>
 from ursina import *
+
 app = Ursina() #‎ Generates the Ursina window 
+
 def update(): #‎ Function called every frame
+
    ... 
+
 def input(key): #‎ Called when a key is pressed
+
    ...
+
 app.run() #‎ Creates the window 
 </syntaxhighlight>
 <br>
@@ -47,9 +53,13 @@ Each entity can have its own update function, that is executed each frame and an
 
 **Level Editor (Beta Preview)**:<br>Ursina's level editor is currently in beta preview. Import it via:<syntaxhighlight lang="python" line>
 from ursina import *
+
 from ursina.editor.level_editor import LevelEditor
+
 app = Ursina()
+
 editor = LevelEditor()
+
 app.run()
 </syntaxhighlight>
 
