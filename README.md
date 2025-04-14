@@ -91,5 +91,5 @@ And many more on https://itch.io/games/tag-ursina Itch.io.
 ----
 
 # Other Websites
-* [https://www.ursinaengine.org/ Official website]
-* [https://www.ursinaengine.org/documentation.html Full Documentation]
+* https://www.ursinaengine.org/ Official website
+* https://www.ursinaengine.org/documentation.html Full Documentation
