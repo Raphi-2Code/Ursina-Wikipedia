@@ -1,8 +1,8 @@
 # Overview
 
-The **Ursina Engine** is a [[framework]] that uses the [[Python (programming language)|Python]] language. It allows developers to create both 2D and 3D projects. It is mainly used to create games. It is free and is licensed under the [[Massachusetts Institute of Technology|MIT]] license. In addition to games, it can also be used to create apps and simulations. The engine is available for [[Microsoft Windows|Windows]], [[Linux]], and [[MacOS|Mac]] (not officially supported).
+The **Ursina Engine** is a framework that uses the Python language. It allows developers to create both 2D and 3D projects. It is mainly used to create games. It is free and is licensed under the Massachusetts Institute of Technology|MIT license. In addition to games, it can also be used to create apps and simulations. The engine is available for Microsoft Windows, Linux, and MacOS (not officially supported).
 
-There is also a community-created [[Android (operating system)|Android]] port:
+There is also a community-created Android port:
 
 https://github.com/PaologGithub/UrsinaForMobile/
 
