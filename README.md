@@ -63,7 +63,7 @@ editor = LevelEditor()
 app.run()
 </syntaxhighlight>
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Ursina_level_editor_screenshot.png) 
 
 The trailer is accessible https://www.youtube.com/watch?v=37vLHB5PRTw&t=25s here. 
 
