@@ -52,6 +52,7 @@ Each entity can have its own update function, that is executed each frame and an
 **Other useful tools and features**:<br>Networking:<br>Ursina has a built-in module networking module: from ursina.networking import *<br>Physics Engine:<br>Ursina has a built-in physics engine (from ursina.physics import *), yet not finished.<br>
 
 **Level Editor (Beta Preview)**:<br>Ursina's level editor is currently in beta preview. Import it via:<syntaxhighlight lang="python" line>
+
 from ursina import *
 
 from ursina.editor.level_editor import LevelEditor
