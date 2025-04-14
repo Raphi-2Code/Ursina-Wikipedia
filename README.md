@@ -63,7 +63,7 @@ editor = LevelEditor()
 app.run()
 </syntaxhighlight>
 
-[[File:Ursina level editor screenshot.png|thumb|A screenshot of the official ursina level editor]]
+
 
 The trailer is accessible [https://www.youtube.com/watch?v=37vLHB5PRTw&t=25s here]. 
 
@@ -93,8 +93,3 @@ And many more on [https://itch.io/games/tag-ursina Itch.io].
 # Other Websites
 * [https://www.ursinaengine.org/ Official website]
 * [https://www.ursinaengine.org/documentation.html Full Documentation]
-
-{{tech-stub}}
-
-[[Category:Programming languages]]
-[[Category:Functional languages]]
