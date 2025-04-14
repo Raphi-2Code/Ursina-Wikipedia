@@ -43,7 +43,7 @@ app.run() #‎ Creates the window
 <br>
 **Entities**:<br>Ursina is an entity-based engine. An entity is a Python class that acts as an object in Ursina, similar to the GameObject in Unity.<br>It can have a position, a rotation, a scale, a model, a texture, a color, a shader, a parent, ...<br>Scripts apply a behavior to the entity.
 
-Each entity can have its own update function, that is executed each frame and an input function (executed when a key is pressed).<br>More attributes of an entity are shown here: [https://www.ursinaengine.org/api_reference.html#Entity API Reference] [https://www.ursinaengine.org/entity_basics.html Entity Basics]<br>
+Each entity can have its own update function, that is executed each frame and an input function (executed when a key is pressed).<br>More attributes of an entity are shown here: https://www.ursinaengine.org/api_reference.html#Entity API Reference https://www.ursinaengine.org/entity_basics.html Entity Basics<br>
 
 **Collisions and Colliders**:<br>Ursina can handle collisions when a collider is applied to an entity.<br>Alternatively, the functions <code>raycast</code> and <code>boxcast</code> can be used.<br />
 
@@ -65,19 +65,19 @@ app.run()
 
 
 
-The trailer is accessible [https://www.youtube.com/watch?v=37vLHB5PRTw&t=25s here]. 
+The trailer is accessible https://www.youtube.com/watch?v=37vLHB5PRTw&t=25s here. 
 
 ----
 
 # Notable Projects
 
-• **Dustred** by [https://github.com/pokepetter pokepetter] (Petter Amland, ursina's creator). Here's the code: [https://github.com/pokepetter/red_planet GitHub Code]<br /> or play it in the browser (web version created with taptapir*): [https://pokepetter.github.io/red_planet/dustred Play Dustred].
+• **Dustred** by https://github.com/pokepetter pokepetter (Petter Amland, ursina's creator). Here's the code: https://github.com/pokepetter/red_planet GitHub Code<br /> or play it in the browser (web version created with taptapir*): https://pokepetter.github.io/red_planet/dustred Play Dustred.
 
-• **Phalanger** by SLHIDE™. [https://slhide.free.nf/phalanger.php Play Phalanger] (Android, requires creating an account on their website).
+• **Phalanger** by SLHIDE™. https://slhide.free.nf/phalanger.php Play Phalanger (Android, requires creating an account on their website).
 
-• **Rally** by [https://mandaw2014.itch.io Mandaw], Desktop [https://mandaw2014.itch.io/rally Play Rally]
+• **Rally** by https://mandaw2014.itch.io Mandaw, Desktop https://mandaw2014.itch.io/rally Play Rally
 
-And many more on [https://itch.io/games/tag-ursina Itch.io].
+And many more on https://itch.io/games/tag-ursina Itch.io.
 
 ㅤㅤ*engine created by ursina's developer for creating browser games
 
