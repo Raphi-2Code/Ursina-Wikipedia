@@ -26,20 +26,22 @@ Keep in mind that installing from the latest GitHub version may introduce new fe
 **Structure**:
 
 A regular project contains these features: 
+
 <code>
-from ursina import *
 
-app = Ursina() #‎ Generates the Ursina window 
+  	from ursina import *
 
-def update(): #‎ Function called every frame
+	app = Ursina() #‎ Generates the Ursina window 
 
-   ... 
+	def update(): #‎ Function called every frame
 
-def input(key): #‎ Called when a key is pressed
+  	... 
 
-   ...
+	def input(key): #‎ Called when a key is pressed
 
-app.run() #‎ Creates the window 
+  	...
+
+	app.run() #‎ Creates the window 
 </code>
 
 **Entities**:<br>Ursina is an entity-based engine. An entity is a Python class that acts as an object in Ursina, similar to the GameObject in Unity.<br>It can have a position, a rotation, a scale, a model, a texture, a color, a shader, a parent, ...<br>Scripts apply a behavior to the entity.
